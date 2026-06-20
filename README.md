@@ -10,6 +10,10 @@
 
 # Skills For Real Engineers
 
+## CIVIVEUNLTD Fork Note
+
+This fork is maintained for Scott Berry / Civive Unlimited so the useful engineering and productivity skills can be kept Codex-compatible, adapted cautiously, and installed into Scott's global Codex skill root. Upstream attribution and the MIT license are preserved.
+
 [![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)
 
 My agent skills that I use every day to do real engineering - not vibe coding.
